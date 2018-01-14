@@ -1,0 +1,120 @@
+Access to THE WORLD FACTBOOK 1993 provided courtesy of 
+The Libraries of the University of Missouri-St. Louis
+ 
+ Match 110   DB Rec# - 55,857  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 109              
+Title         :HOWLAND ISLAND 
+Data type     :TEXT 
+End year      :1994
+Date of record:02/16/1994
+Keywords 3    : 
+| HOWLAND ISLAND 
+Text          : 
+HOWLAND ISLAND 
+Affiliation: (territory of the US) 
+ 
+GEOGRAPHY 
+Location: in the North Pacific Ocean, 2,575 km southwest of Honolulu, just 
+north of the Equator, about halfway between Hawaii and Australia 
+ 
+Map references: Oceania 
+ 
+Area: 
+ 
+total area: 1.6 km2 
+ 
+comparative area: about 2.7 times the size of the Mall in Washington, DC 
+ 
+Land boundaries: 0 km 
+ 
+Coastline: 6.4 km 
+ 
+contiguous zone: 24 nm 
+ 
+continental shelf: 200 m or the depth of exploitation 
+ 
+exclusive economic zone: 200 nm 
+ 
+territorial sea: 12 nm 
+ 
+International disputes: none 
+ 
+Climate: equatorial; scant rainfall, constant wind, burning sun 
+ 
+Terrain: low-lying, nearly level, sandy, coral island surrounded by a 
+narrow fringing reef; depressed central area 
+ 
+Natural resources: guano (deposits worked until late 1800s) 
+ 
+Land use: 
+ 
+arable land: 0% 
+ 
+permanent crops: 0% 
+ 
+meadows and pastures: 0% 
+ 
+forest and woodland: 5% 
+ 
+other: 95% 
+ 
+Irrigated land: 0 km2 
+ 
+Environment: almost totally covered with grasses, prostrate vines, and 
+low-growing shrubs; small area of trees in the center; lacks fresh water; 
+primarily a nesting, roosting, and foraging habitat for seabirds, shorebirds, 
+and marine wildlife; feral cats 
+ 
+PEOPLE 
+Population: uninhabited; note - American civilians evacuated in 1942 after 
+Japanese air and naval attacks during World War II; occupied by US military 
+during World War II, but abandoned after the war; public entry is by 
+special-use permit only and generally restricted to scientists and educators 
+ 
+GOVERNMENT 
+Names: 
+ 
+conventional long form: none 
+ 
+conventional short form: Howland Island 
+ 
+Digraph: HQ 
+ 
+Wildlife Refuge System 
+ 
+Capital: none; administered from Washington, DC 
+ 
+ECONOMY 
+Overview: no economic activity 
+ 
+COMMUNICATIONS 
+Ports: none; offshore anchorage only, one boat landing area along the 
+middle of the west coast 
+ 
+Airports: airstrip constructed in 1937 for scheduled refueling stop on the 
+round-the-world flight of Amelia Earhart and Fred Noonan - they left Lae, New 
+Guinea, for Howland Island, but were never seen again; the airstrip is no 
+longer serviceable 
+ 
+Note: Earhart Light is a day beacon near the middle of the west coast that 
+was partially destroyed during World War II, but has since been rebuilt in 
+memory of famed aviatrix Amelia Earhart 
+ 
+Defense forces 
+Note: defense is the responsibility of the US; visited annually by the US 
+Coast Guard 
+ 
+ 
+ 
+--------------------------------------------------------------------------
+This section of THE WORLD FACTBOOK 1993 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK CD-ROM,
+July, 1994, SuDoc No. C 1.88:994/7/v.1-2 / R. Muns, UM-St. Louis Libraries 
+Local Filename: WF940107.TXT

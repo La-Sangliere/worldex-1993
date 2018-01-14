@@ -1,0 +1,117 @@
+Access to THE WORLD FACTBOOK 1993 provided courtesy of 
+The Libraries of the University of Missouri-St. Louis
+ 
+ Match 15   DB Rec# - 55,762  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 014              
+Title         :ASHMORE AND CARTIER ISLANDS 
+Data type     :TEXT 
+End year      :1994
+Date of record:02/16/1994
+Keywords 3    : 
+| ASHMORE AND CARTIER ISLANDS 
+Text          : 
+ASHMORE AND CARTIER ISLANDS 
+Affiliation: (territory of Australia) 
+ 
+GEOGRAPHY 
+Location: in the Indian Ocean, 320 km off the northwest coast of 
+Australia, between Australia and Indonesia 
+ 
+Map references: Oceania, Southeast Asia 
+ 
+Area: 
+ 
+total area: 5 km2 
+ 
+land area: 5 km2 
+ 
+comparative area: about 8.5 times the size of The Mall in Washington, DC 
+ 
+note: includes Ashmore Reef (West, Middle, and East Islets) and Cartier 
+Island 
+ 
+Land boundaries: 0 km 
+ 
+contiguous zone: 12 nm 
+ 
+continental shelf: 200 m (depth) or to depth of exploration 
+ 
+exclusive fishing zone: 200 nm 
+ 
+territorial sea: 3 nm 
+ 
+International disputes: none 
+ 
+Climate: tropical 
+ 
+Terrain: low with sand and coral 
+ 
+Natural resources: fish 
+ 
+Land use: 
+ 
+arable land: 0% 
+ 
+permanent crops: 0% 
+ 
+meadows and pastures: 0% 
+ 
+forest and woodland: 0% 
+ 
+other: 100% (all grass and sand) 
+ 
+Irrigated land: 0 km2 
+ 
+Environment: surrounded by shoals and reefs; Ashmore Reef National Nature 
+Reserve established in August 1983 
+ 
+PEOPLE 
+Population: no indigenous inhabitants; note - there are only seasonal 
+caretakers 
+ 
+GOVERNMENT 
+Names: 
+ 
+conventional long form: Territory of Ashmore and Cartier Islands 
+ 
+conventional short form: Ashmore and Cartier Islands 
+ 
+Digraph: AT 
+ 
+Type: territory of Australia administered by the Australian Ministry for 
+Arts, Sports, the Environment, Tourism, and Territories 
+ 
+Capital: none; administered from Canberra, Australia 
+ 
+Administrative divisions: none (territory of Australia) 
+ 
+Independence: none (territory of Australia) 
+ 
+Legal system: relevant laws of the Northern Territory of Australia 
+ 
+Diplomatic representation in US: none (territory of Australia) 
+ 
+ECONOMY 
+Overview: no economic activity 
+ 
+COMMUNICATIONS 
+Ports: none; offshore anchorage only 
+ 
+Defense forces 
+Note: defense is the responsibility of Australia; periodic visits by the 
+Royal Australian Navy and Royal Australian Air Force 
+ 
+ 
+ 
+--------------------------------------------------------------------------
+This section of THE WORLD FACTBOOK 1993 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK CD-ROM,
+July, 1994, SuDoc No. C 1.88:994/7/v.1-2 / R. Muns, UM-St. Louis Libraries 
+Local Filename: WF940014.TXT

@@ -1,0 +1,119 @@
+Access to THE WORLD FACTBOOK 1993 provided courtesy of 
+The Libraries of the University of Missouri-St. Louis
+ 
+ Match 78   DB Rec# - 55,825  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 077              
+Title         :EUROPA ISLAND 
+Data type     :TEXT 
+End year      :1994
+Date of record:02/16/1994
+Keywords 3    : 
+| EUROPA ISLAND 
+Text          : 
+EUROPA ISLAND 
+Affiliation: (possession of France) 
+ 
+GEOGRAPHY 
+Location: Southern Africa, in the southern Mozambique Channel about 
+Map references: Africa 
+ 
+Area: 
+ 
+total area: 28 km2 
+ 
+land area: 28 km2 
+ 
+comparative area: about 0.2 times the size of Washington, DC 
+ 
+Land boundaries: 0 km 
+ 
+Coastline: 22.2 km 
+ 
+exclusive economic zone: 200 nm 
+ 
+territorial sea: 12 nm 
+ 
+International disputes: claimed by Madagascar 
+ 
+Climate: tropical 
+ 
+Terrain: NA 
+ 
+Natural resources: negligible 
+ 
+Land use: 
+ 
+arable land: NA% 
+ 
+permanent crops: NA% 
+ 
+meadows and pastures: NA% 
+ 
+forest and woodland: NA% 
+ 
+other: NA% (heavily wooded) 
+ 
+Irrigated land: 0 km2 
+ 
+Environment: wildlife sanctuary 
+ 
+PEOPLE 
+Population: uninhabited 
+ 
+GOVERNMENT 
+Names: 
+ 
+conventional long form: none 
+ 
+conventional short form: Europa Island 
+ 
+local long form: none 
+ 
+local short form: Ile Europa 
+ 
+Digraph: EU 
+ 
+ 
+Capital: none; administered by France from Reunion 
+ 
+Independence: none (possession of France) 
+ 
+ECONOMY 
+Overview: no economic activity 
+ 
+COMMUNICATIONS 
+Ports: none; offshore anchorage only 
+ 
+Airports: 
+ 
+total: 1 
+ 
+usable: 1 
+ 
+with permanent-surface runways: 0 
+ 
+with runways over 3,659 m: 0 
+ 
+with runways 2,439-3,659 m: 0 
+ 
+with runways 1,220-2,439 m: 1 
+ 
+Telecommunications: 1 meteorological station 
+ 
+Defense forces 
+Note: defense is the responsibility of France 
+ 
+ 
+ 
+--------------------------------------------------------------------------
+This section of THE WORLD FACTBOOK 1993 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK CD-ROM,
+July, 1994, SuDoc No. C 1.88:994/7/v.1-2 / R. Muns, UM-St. Louis Libraries 
+Local Filename: WF940076.TXT

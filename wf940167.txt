@@ -1,0 +1,106 @@
+Access to THE WORLD FACTBOOK 1993 provided courtesy of 
+The Libraries of the University of Missouri-St. Louis
+ 
+ Match 170   DB Rec# - 55,918  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 170              
+Title         :NAVASSA ISLAND 
+Data type     :TEXT 
+End year      :1994
+Date of record:02/16/1994
+Keywords 3    : 
+| NAVASSA ISLAND 
+Text          : 
+NAVASSA ISLAND 
+Affiliation: (territory of the US) 
+ 
+GEOGRAPHY 
+Location: in the Caribbean Sea, 160 km south of the US Naval Base at 
+Guantanamo (Cuba), between Cuba, Haiti, and Jamaica 
+ 
+Map references: Central America and the Caribbean 
+ 
+Area: 
+ 
+total area: 5.2 km2 
+ 
+land area: 5.2 km2 
+ 
+Land boundaries: 0 km 
+ 
+Coastline: 8 km 
+ 
+contiguous zone: 24 nm 
+ 
+continental shelf: 200 m or depth of exploitation 
+ 
+exclusive economic zone: 200 nm 
+ 
+territorial sea: 12 nm 
+ 
+International disputes: claimed by Haiti 
+ 
+Climate: marine, tropical 
+ 
+Terrain: raised coral and limestone plateau, flat to undulating; ringed by 
+vertical white cliffs (9 to 15 meters high) 
+ 
+Natural resources: guano 
+ 
+Land use: 
+ 
+arable land: 0% 
+ 
+permanent crops: 0% 
+ 
+meadows and pastures: 10% 
+ 
+forest and woodland: 0% 
+ 
+other: 90% 
+ 
+Irrigated land: 0 km2 
+ 
+Environment: mostly exposed rock, but enough grassland to support goat 
+herds; dense stands of fig-like trees, scattered cactus 
+ 
+Note: strategic location 160 km south of the US Naval Base at Guantanamo, 
+Cuba 
+ 
+PEOPLE 
+Population: uninhabited; note - transient Haitian fishermen and others 
+camp on the island 
+ 
+GOVERNMENT 
+Names: 
+ 
+conventional long form: none 
+ 
+conventional short form: Navassa Island 
+ 
+Digraph: BQ 
+ 
+Type: unincorporated territory of the US administered by the US Coast Guard 
+ 
+Capital: none; administered from Washington, DC 
+Overview: no economic activity 
+ 
+COMMUNICATIONS 
+Ports: none; offshore anchorage only 
+ 
+Defense forces 
+Note: defense is the responsibility of the US 
+ 
+ 
+ 
+--------------------------------------------------------------------------
+This section of THE WORLD FACTBOOK 1993 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK CD-ROM,
+July, 1994, SuDoc No. C 1.88:994/7/v.1-2 / R. Muns, UM-St. Louis Libraries 
+Local Filename: WF940167.TXT

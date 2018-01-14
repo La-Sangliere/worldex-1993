@@ -1,0 +1,121 @@
+Access to THE WORLD FACTBOOK 1993 provided courtesy of 
+The Libraries of the University of Missouri-St. Louis
+ 
+ Match 94   DB Rec# - 55,841  Dataset-WOFACT
+ 
+Source        :CENTRAL INTELLIGENCE AGENCY 
+Source key    :CI 
+Program       :WORLD FACTBOOK 
+Program key   :CI WOFACT 
+Update sched. :Annually         
+ID number     :CI WOFACT 093              
+Title         :GLORIOSO ISLANDS 
+Data type     :TEXT 
+End year      :1994
+Date of record:02/16/1994
+Keywords 3    : 
+| GLORIOSO ISLANDS 
+Text          : 
+GLORIOSO ISLANDS 
+Affiliation: (possession of France) 
+ 
+GEOGRAPHY 
+Location: Southern Africa, in the Indian Ocean just north of Madagascar 
+ 
+Area: 
+ 
+total area: 5 km2 
+ 
+land area: 5 km2 
+ 
+comparative area: about 8.5 times the size of the Mall in Washington, DC 
+ 
+note: includes Ile Glorieuse, Ile du Lys, Verte Rocks, Wreck Rock, and 
+South Rock 
+ 
+Land boundaries: 0 km 
+ 
+Coastline: 35.2 km 
+ 
+contiguous zone: 12 nm 
+ 
+exclusive economic zone: 200 nm 
+ 
+territorial sea: 12 nm 
+ 
+International disputes: claimed by Madagascar 
+ 
+Climate: tropical 
+ 
+Terrain: NA 
+ 
+Natural resources: guano, coconuts 
+ 
+Land use: 
+ 
+arable land: 0% 
+ 
+permanent crops: 0% 
+ 
+meadows and pastures: 0% 
+ 
+forest and woodland: 0% 
+ 
+other: 100% (all lush vegetation and coconut palms) 
+ 
+Irrigated land: 0 km2 
+ 
+Environment: subject to periodic cyclones 
+ 
+PEOPLE 
+Population: unihabited 
+ 
+GOVERNMENT 
+Names: 
+ 
+conventional long form: none 
+ 
+conventional short form: Glorioso Islands 
+ 
+local long form: none 
+ 
+local short form: Iles Glorieuses 
+ 
+Type: French possession administered by Commissioner of the Republic, 
+resident in Reunion 
+ 
+Capital: none; administered by France from Reunion 
+ 
+Independence: none (possession of France) 
+ 
+ECONOMY 
+Overview: no economic activity 
+ 
+COMMUNICATIONS 
+Ports: none; offshore anchorage only 
+ 
+Airports: 
+ 
+total: 1 
+ 
+usable: 1 
+ 
+with permanent-surface runways: 0 
+ 
+with runsways over 3,6359 m: 0 
+ 
+with runways 2,440-3,659 m: 0 
+ 
+with runways 1,220-2,439 m: 1 
+ 
+Defense forces 
+Note: defense is the responsibility of France 
+ 
+ 
+ 
+--------------------------------------------------------------------------
+This section of THE WORLD FACTBOOK 1993 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK CD-ROM,
+July, 1994, SuDoc No. C 1.88:994/7/v.1-2 / R. Muns, UM-St. Louis Libraries 
+Local Filename: WF940092.TXT
